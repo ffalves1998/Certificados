@@ -1,31 +1,36 @@
-<h1 align="center"><img align="center" src="https://img.icons8.com/dotty/80/000000/certificate.png"/> 
-  Cursos e Certificados <img align="center" src="https://img.icons8.com/dotty/80/000000/certificate.png"/> </h1>
+<div align="center">
+  <h1><img src="https://img.icons8.com/dotty/80/000000/certificate.png"><br> 
+  Cursos e Certificados </h1>
+  <p>Cursos em andamento e concluidos, com suas respectivas instituições.<p>
+</div>
 
-    Cursos em andamento e concluidos, com suas respectivas instituições.
+<div>
+  <h2 align="center">SENAI</h2>
+  <li>Operador de Microcomputador</li>
+</div>
 
+<div>
+  <h2 align="center">IFRO</h2>
+  <li>Técnico em Informática Integrado ao Ensino Médio</li>
+</div>
 
-<h2 align="center">SENAI</h2>
+<div>
+  <h2 align="center">SAPIENS</h2>
+  <li>Bacharel em Sistemas de Informação</li>
+</div>
 
-    - Operador de Microcomputador.
+<div>
+  <h2 align="center">UDEMY</h2>
+  <li>Git e Github para iniciantes</li>
+  <li>Banco de Dados Espaciais </li> 
+  <li>Integrnado QGIS com PostgreSql+Postgis </li> 
+  <li>CURSANDO - Iniciando com Python </li> 
+  <li>CURSANDO - Mineração de Emoção em Textos com Python e NLTK </li> 
+</div>
 
-<h2 align="center">IFRO</h2>
+<div>
+  <h2 align="center">DESCOMPLICA</h2>
+  <li>CURSANDO - Pós-Graduação em Análise de Dados </li> 
+  <li>CURSANDO - MBA - Big Data em Inteligência Competitiva - Cursando </li> 
+</div>
 
-    - Técnico em Informática Integrado ao Ensino Médio.
-
-<h2 align="center">SAPIENS</h2>
-
-    - Bacharel em Sistemas de Informação
-
-<h2 align="center">UDEMY</h2>
-
-    - Git e Github para iniciantes.
-    - Banco de Dados Espaciais.
-    - Integrnado QGIS com PostgreSql+Postgis.
-    - Iniciando com Python - Cursando.
-    - Mineração de Emoção em Textos com Python e NLTK - Cursando.
-    
-
-<h2 align="center">DESCOMPLICA</h2>
-
-    - Pós-Graduação em Análise de Dados - Cursando.
-    - MBA - Big Data em Inteligência Competitiva - Cursando.
