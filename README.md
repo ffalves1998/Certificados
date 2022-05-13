@@ -15,11 +15,6 @@
 </div>
 
 <div>
-  <h2 align="center">SAPIENS</h2>
-  <li>Bacharel em Sistemas de Informação</li>
-</div>
-
-<div>
   <h2 align="center">UDEMY</h2>
   <li>Git e Github para iniciantes</li>
   <li>Banco de Dados Espaciais </li> 
@@ -29,8 +24,18 @@
 </div>
 
 <div>
-  <h2 align="center">DESCOMPLICA</h2>
-  <li>CURSANDO - Pós-Graduação em Análise de Dados </li> 
-  <li>CURSANDO - MBA - Big Data em Inteligência Competitiva - Cursando </li> 
+  <h2 align="center">DATA SCIENCE ACADEMY</h2>
+  <li>CURSANDO - Big Data Fundamentos 3.0 </li> 
+  <li>CURSANDO - Python Fundamentos Para Análise de Dados 3.0 </li> 
 </div>
 
+<div>
+  <h2 align="center">SAPIENS</h2>
+  <li>Bacharel em Sistemas de Informação</li>
+</div>
+
+<div>
+  <h2 align="center">DESCOMPLICA</h2>
+  <li>CURSANDO - Pós-Graduação em Análise de Dados </li> 
+  <li>CURSANDO - MBA - Big Data em Inteligência Competitiva </li> 
+</div>
