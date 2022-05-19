@@ -18,7 +18,7 @@
   <h2 align="center">UDEMY</h2>
   <li>Git e Github para iniciantes</li>
   <li>Banco de Dados Espaciais </li> 
-  <li>Integrnado QGIS com PostgreSql+Postgis </li> 
+  <li>Integrando QGIS com PostgreSql+Postgis </li> 
   <li>CURSANDO - Iniciando com Python </li> 
   <li>CURSANDO - Mineração de Emoção em Textos com Python e NLTK </li> 
 </div>
