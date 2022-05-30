@@ -24,6 +24,11 @@
 </div>
 
 <div>
+  <h2 align="center">DIGITAL INNOVATION ONE</h2>
+  <li>Introdução a PostgreSQL</li> 
+</div>
+
+<div>
   <h2 align="center">MUNDO GEO CONNECT</h2>
   <li>CITinova apresenta: Tecnologia e Inovação para Cidades Sustentáveis</li> 
   <li>Geotecnologia: a solução para melhor gestão de projetos públicos e privados </li> 
