@@ -24,8 +24,14 @@
 </div>
 
 <div>
+  <h2 align="center">MUNDO GEO CONNECT</h2>
+  <li>CITinova apresenta: Tecnologia e Inovação para Cidades Sustentáveis</li> 
+  <li>Geotecnologia: a solução para melhor gestão de projetos públicos e privados </li> 
+</div>
+
+<div>
   <h2 align="center">DATA SCIENCE ACADEMY</h2>
-  <li>CURSANDO - Big Data Fundamentos 3.0 </li> 
+  <li>Big Data Fundamentos 3.0 </li> 
   <li>CURSANDO - Python Fundamentos Para Análise de Dados 3.0 </li> 
 </div>
 
